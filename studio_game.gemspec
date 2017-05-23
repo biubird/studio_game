@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version      = "1.0.0"
   s.author       = "Heather Doucet"
   s.email        = "heatherredoucet@gmail.com"
-  s.homepage     = "url"
+  s.homepage     = "https://github.com/biubird/studio_game"
   s.summary      = "INSERT SUMMARY HERE"
   s.description  = File.read(File.join(File.dirname(__FILE__), 'README.md'))
   s.licenses     = ['MIT']
